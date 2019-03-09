@@ -6,6 +6,12 @@ Parameters:
     Description: EC2 Key Pair for SSH Access, you must have created these prior to
       running this.
     Type: AWS::EC2::KeyPair::KeyName
+  SomeName:
+    Description: type something
+      running this.
+    Type: String
+    
+    
   VpcId:
     Description: 'Please insert one of your VPC ID. you can find this info in the
       VPC console '
