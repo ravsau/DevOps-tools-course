@@ -1,0 +1,46 @@
+ ```bash
+ 146  git clone https://github.com/ASMEducationalCenter/Devops-course
+  147  clear
+  148  ls
+  149  ls
+  150  cd ..
+  151  ls
+  152  cd github-repos/
+  153  ls
+  154  cd Devops-course/
+  155  ls
+  156  notepad .
+  157  notepad README.md
+  158  clear
+  159  git status
+  160  git diff
+  161  notepad README.md
+  162  cat README.md
+  163  clear
+  164  git diff
+  165  notepad README.md
+  166  git diff
+  167  git add README.md
+  168  git status
+  169  git commit
+  170  clear
+  171  git config user.email hamedm@asmed.com
+  172  git commit -m "add the line as told by the instructor"
+  173  git log
+  174  git push origin master
+  175  git remote -v
+  176  git remote add origin https://github.com/ravsau/15-AWS
+  177  git remote add saurav https://github.com/ravsau/15-AWS
+  178  git remote -v
+  179  clear
+  180  git branch
+  181  git checkout -b test
+  182  echo "hello">hello.txt
+  183  git status
+  184  git add .
+  185  git commit -m "add file to new branch"
+  186  git push origin test
+  187  clear
+  188  history
+
+```
