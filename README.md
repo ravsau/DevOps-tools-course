@@ -21,7 +21,8 @@ Intro to DevOps on AWS with various tools and services
 # Day 1 tentative
 - Intro to DevOps 
   - #### Waterfall, Agile, DevOps
-    https://www.guru99.com/agile-vs-devops.html
+     - https://www.guru99.com/waterfall-vs-agile.html
+     - https://www.guru99.com/agile-vs-devops.html
     
   - ### What is DevOps
     https://aws.amazon.com/devops/what-is-devops/
