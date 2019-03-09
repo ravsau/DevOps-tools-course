@@ -75,7 +75,7 @@ Intro to DevOps on AWS with various tools and services
 
 
 # Day 3 Tentative
-
+- Immutable infrastructure with Golden Image / AMI 
 - Autoscaling and Load Balancing 
 - HTTP Flood to autoscale
 - Monitoring , Cloudwatch Dashboard
