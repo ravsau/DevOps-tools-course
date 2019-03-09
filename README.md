@@ -2,6 +2,21 @@
 Intro to DevOps on AWS with various tools and services
 
 
+## Devops tools we will cover
+- Infrastructure as code:Cloudformation ( Day 1) 
+- Infrastructure as code: Terraform ( Day 1) 
+- SCM: Git and Github
+- API Automation: AWS Command Line Interface, boto3 AWS SDK ( Day 1) 
+- Configuration Management: Ansible ( Day 2) 
+- Continuous Integration: Jenkins ( Day 2) 
+- ChatOps: Slack ( Day 3) 
+- Alerting :  SNS (Day 2 and 3) 
+- Monitoring and Logging: Cloudwatch Metrics + Logs ( Day 3) 
+- Serverless Automation: AWS Lambda ( Day 3) 
+- Containers: Docker ( Day 3) 
+
+
+
 
 # Day 1 tentative
 - Intro to DevOps 
@@ -26,6 +41,11 @@ Intro to DevOps on AWS with various tools and services
   - https://www.atlassian.com/git/tutorials
   
 - AWS CLI 
+  - S3 
+  - copy to s3 
+  - cloudformation
+  - EC2 describe 
+  
 
 - Cloudformation
   - Create a simple stack with cloudformation ( with AWS Management console)
@@ -39,7 +59,36 @@ Intro to DevOps on AWS with various tools and services
  
 
 
+# Day 2 Tentative
 
+- Intro to Ansible 
+  
+- Logging , Monitoring , Alerting 
+
+-  CI/CD with Jenkins 
+  - create a simple project 
+     - poll from SCM ( github)
+     - Build 
+     - Copy Artifact to S3
+     - Deploy artifact with Ansible 
+     
+
+
+# Day 3 Tentative
+
+- Autoscaling and Load Balancing 
+- HTTP Flood to autoscale
+- Monitoring , Cloudwatch Dashboard
+
+- Combine Previous tools and concepts
+
+- Containerization with Docker Demo 
+  - create Docker Image
+  - Deploy containers
+  - Pull from Dockerhub
+  - Push to Dockerhub
+
+     
 
 
 ## References
