@@ -58,13 +58,16 @@ Intro to DevOps on AWS with various tools and services
   - create a VPC with terraform 
   - [Lab](https://github.com/ravsau/aws-labs/blob/master/terraform-aws/lesson1-ec2-with-terraform.MD)
   
-  - AWS CLI 
+- AWS CLI 
   - S3 
   - copy to s3 
   - cloudformation
   - EC2 describe 
   
 - Intro to Ansible 
+  - https://www.ansible.com/
+  - https://www.amazon.com/gp/product/098639341X/ref=dbs_a_def_rwt_bibl_vppi_i0
+  - https://github.com/geerlingguy/ansible-for-devops
   
 
      
