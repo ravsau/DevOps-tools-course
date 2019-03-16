@@ -41,12 +41,12 @@ Intro to DevOps on AWS with various tools and services
   - http://rogerdudler.github.io/git-guide/
   - https://www.atlassian.com/git/tutorials
   
-- AWS CLI 
-  - S3 
-  - copy to s3 
-  - cloudformation
-  - EC2 describe 
-  
+
+ 
+
+
+# Day 2 Tentative
+
 
 - Cloudformation
   - Create a simple stack with cloudformation ( with AWS Management console)
@@ -57,14 +57,22 @@ Intro to DevOps on AWS with various tools and services
   - create a simple EC2 windows and linux instance with terraform 
   - create a VPC with terraform 
   - [Lab](https://github.com/ravsau/aws-labs/blob/master/terraform-aws/lesson1-ec2-with-terraform.MD)
- 
-
-
-# Day 2 Tentative
-
+  
+  - AWS CLI 
+  - S3 
+  - copy to s3 
+  - cloudformation
+  - EC2 describe 
+  
 - Intro to Ansible 
   
-- Logging , Monitoring , Alerting 
+
+     
+
+
+# Day 3 Tentative
+
+
 
 -  CI/CD with Jenkins 
   - create a simple project 
@@ -72,22 +80,20 @@ Intro to DevOps on AWS with various tools and services
      - Build 
      - Copy Artifact to S3
      - Deploy artifact with Ansible 
-     
-
-
-# Day 3 Tentative
 - Immutable infrastructure with Golden Image / AMI 
-- Autoscaling and Load Balancing 
-- HTTP Flood to autoscale
-- Monitoring , Cloudwatch Dashboard
+- Review Autoscaling and Load Balancing 
+   - HTTP Flood to autoscale
+- ( Lecture + Demo) Logging , Monitoring , Alerting 
 
-- Combine Previous tools and concepts
+
 
 - Containerization with Docker Demo 
   - create Docker Image
   - Deploy containers
   - Pull from Dockerhub
   - Push to Dockerhub
+  
+ - Refresh all the concepts covered
 
      
 ## Links
