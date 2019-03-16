@@ -12,7 +12,7 @@ service sshd restart
 useradd ansible
 
 # this will set the password for ansible user to be 'ansible123'
-echo "password123" | passwd --stdin ansible123
+echo "password123" | passwd --stdin ansible
 
 # this will give ansible user superuser access without password
 echo 'ansible         ALL=(ALL)       NOPASSWD: ALL' >> /etc/sudoers
